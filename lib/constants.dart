@@ -1,0 +1,1 @@
+const pexelsApiKey = 'qNd38TMHD0l9SkG4zc9OGQSFqkyrvm6UzdZhryzK04umMJbGrRgAnCae';
