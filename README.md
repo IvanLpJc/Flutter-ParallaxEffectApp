@@ -12,5 +12,5 @@ Videos extracted from [Pexels](https://www.pexels.com/es-es/buscar/videos/landsc
 - [Fourth video](https://www.pexels.com/es-es/video/paisaje-naturaleza-agua-puente-7297870/): [Spencer Campbell](https://www.pexels.com/es-es/@mrcampbellrocks/)
 
 ## Demo
-<img src="https://github.com/IvanLpJc/Flutter-ParallaxEffectApp/blob/main/demo.gif" width=200px> 
+<img src="https://github.com/IvanLpJc/Flutter-ParallaxEffectApp/blob/main/demo-parallax.gif" width=200px> 
 
